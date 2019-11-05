@@ -1,0 +1,7 @@
+%syntax-version=1.0.0
+%project=snowflakerepo
+%uri=https://github.com/balamuralibi/sqitch/
+
+staging 2019-11-05T10:59:34Z 'balp' <'balamurali.bi@outlook.com'> # Adding Schema staging
+users [staging] 2019-11-05T11:00:41Z 'balp' <'balamurali.bi@outlook.com'> # Adding table called users under staging
+enterprise 2019-11-05T11:03:04Z 'balp' <'balamurali.bi@outlook.com'> # Adding schema enterprise
